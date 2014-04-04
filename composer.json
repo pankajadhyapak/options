@@ -1,0 +1,20 @@
+{
+    "name": "pankaj/options",
+    "description": "",
+    "authors": [
+        {
+            "name": "Pankaj Adhyapak",
+            "email": "pankaj@w3effects.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Pankaj\\Options": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
